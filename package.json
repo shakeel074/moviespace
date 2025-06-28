@@ -1,7 +1,7 @@
 {
   "name": "moviespace",
   "private": true,
-  "homepage": "https://shakeel074.github.io/MOVIESPACE", 
+  "homepage": "https://shakeel074.github.io/moviespace",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
